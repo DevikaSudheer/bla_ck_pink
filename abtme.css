@@ -1,0 +1,11 @@
+body{
+    background-image: url("./Images/backgd.jpg");
+    background-size: 100%;
+    color: rgb(71, 183, 235); 
+}
+
+img {
+    position: absolute;
+     top:200px; 
+     left:550px; 
+  }
